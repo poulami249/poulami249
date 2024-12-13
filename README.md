@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋,
+I am Poulami Dey, a Supply Chain Analyst, currently working at Mohawk Medbuy Corporation. I have experience in Data/Business analysis in healthcare industry. Presently, I am enrolled in Data Science certificate course by DSI, University of Toronto to expand my technical knowledge in Data Science. Looking forward to collaborrate on projects on Github.
 
 <!--
 **poulami249/poulami249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
